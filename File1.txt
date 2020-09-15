@@ -1,5 +1,3 @@
 Hello World!!
 
-Change1 - Login feature
-Change2 - Logout feature
-Change3 - Logenhancement feature
+Change1: Login feature
